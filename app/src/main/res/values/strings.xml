@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yelper</string>
+    <string name="search_bar_hint">Enter an address or location</string>
+    <string name="no_internet_error_code">No Internet</string>
+    <string name="no_internet_error_description">Please connect to the Internet and try again</string>
+    <string name="no_results_error_code">No Results</string>
+    <string name="no_results_error_description">Please refine your search</string>
+    <string name="generic_error_code">Error</string>
+    <string name="generic_error_description">Sorry, we can\'t find that address</string>
+    <string name="empty_address_description">Please enter an address</string>
+</resources>

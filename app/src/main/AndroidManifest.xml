@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.yelp_td">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.yelp.yelper.di.YelpApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/yelp"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/yelp"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Yelp_TD">
+        <activity
+            android:name="com.yelp.yelper.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

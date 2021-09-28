@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yelper.iml" filepath="$PROJECT_DIR$/.idea/modules/yelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/yelper.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/yelper.app.iml" />
+    </modules>
+  </component>
+</project>
