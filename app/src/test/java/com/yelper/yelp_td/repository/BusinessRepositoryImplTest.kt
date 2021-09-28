@@ -1,7 +1,7 @@
-package com.example.yelp_td.repository
+package com.yelper.yelp_td.repository
 
 import com.yelp.yelper.ConnectivityChecker
-import com.example.yelp_td.MockBusinessResponseGenerator
+import com.yelper.yelp_td.MockBusinessResponseGenerator
 import com.yelp.yelper.StringResourceProvider
 import com.yelp.yelper.model.NO_ERROR
 import com.yelp.yelper.repository.retrofit.YelpApi

@@ -1,4 +1,4 @@
-package com.example.yelp_td
+package com.yelper.yelp_td
 
 import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.Dispatchers

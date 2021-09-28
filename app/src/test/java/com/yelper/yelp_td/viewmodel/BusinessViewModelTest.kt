@@ -1,10 +1,10 @@
-package com.example.yelp_td.viewmodel
+package com.yelper.yelp_td.viewmodel
 
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.Observer
-import com.example.yelp_td.MainCoroutineRule
-import com.example.yelp_td.MockBusinessResponseGenerator
+import com.yelper.yelp_td.MainCoroutineRule
+import com.yelper.yelp_td.MockBusinessResponseGenerator
 import com.yelp.yelper.model.Business
 import com.yelp.yelper.model.BusinessUiModel
 import com.yelp.yelper.model.Error

@@ -1,4 +1,4 @@
-package com.example.yelp_td
+package com.yelper.yelp_td
 
 import com.yelp.yelper.model.Business
 import com.yelp.yelper.model.BusinessState
